@@ -1,0 +1,50 @@
+
+Inicio de respaldo: 2025-03-30 14:15:03
+Router (10.10.10.254): FALLO
+Switch (10.10.10.253): FALLO
+Fin de respaldo: 2025-03-30 14:15:03
+
+Inicio de respaldo: 2025-03-30 14:16:33
+Router (10.10.10.254): EXITO
+Switch (10.10.10.253): EXITO
+Fin de respaldo: 2025-03-30 14:16:38
+
+Inicio de respaldo: 2025-03-30 14:29:30
+Router (10.10.10.254): EXITO
+Switch (10.10.10.253): EXITO
+Fin de respaldo: 2025-03-30 14:29:35
+
+Inicio de respaldo: 2025-03-30 14:31:39
+Router (10.10.10.254): EXITO
+Switch (10.10.10.253): EXITO
+Fin de respaldo: 2025-03-30 14:31:45
+
+Inicio de respaldo: 2025-03-30 14:32:38
+Router (10.10.10.254): EXITO
+Switch (10.10.10.253): EXITO
+Fin de respaldo: 2025-03-30 14:32:43
+
+Inicio de respaldo: 2025-03-30 14:37:38
+Router (10.10.10.254): EXITO
+Switch (10.10.10.253): EXITO
+Fin de respaldo: 2025-03-30 14:37:43
+
+Inicio de respaldo: 2025-03-30 14:42:38
+Router (10.10.10.254): EXITO
+Switch (10.10.10.253): EXITO
+Fin de respaldo: 2025-03-30 14:42:44
+
+Inicio de respaldo: 2025-03-30 14:47:39
+Router (10.10.10.254): EXITO
+Switch (10.10.10.253): EXITO
+Fin de respaldo: 2025-03-30 14:47:44
+
+Inicio de respaldo: 2025-03-30 14:52:39
+Router (10.10.10.254): EXITO
+Switch (10.10.10.253): EXITO
+Fin de respaldo: 2025-03-30 14:52:44
+
+Inicio de respaldo: 2025-03-30 14:57:39
+Router (10.10.10.254): EXITO
+Switch (10.10.10.253): EXITO
+Fin de respaldo: 2025-03-30 14:57:44
